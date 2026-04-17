@@ -96,17 +96,46 @@ const domingo = {
 
 <div align="center">
 
-| Stadiumv2 | MoveU | ResidenciasNova |
-|:---:|:---:|:---:|
-| AR photo experience with your favorite sports stars | Mobility & transport app for university students | Smart hotel login with biometric fingerprint check-in |
-| `Java` `C++` | `Java` `Mobile` | `C#` `Biometrics` |
-| [Explore](https://github.com/domingodb0112/Stadiumv2) | *Startup Project* | *Private* |
+<a href="https://github.com/domingodb0112/Stadiumv2">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=domingodb0112&repo=Stadiumv2&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=ffffff" />
+</a>
+<a href="https://domingodb0112.github.io/domingohdb-presskit-">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=domingodb0112&repo=domingohdb-presskit-&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=ffffff" />
+</a>
 
-| DJ Press Kit | DB Visuals | |
-|:---:|:---:|:---:|
-| Electronic Press Kit — bio, music & booking | Live visual sets coded with Hydra.js | |
-| `HTML` `CSS` | `JavaScript` `Hydra.js` | |
-| [View Presskit](https://domingodb0112.github.io/domingohdb-presskit-) | *Private* | |
+<br/><br/>
+
+<table>
+  <tr>
+    <td align="center" width="280" style="background-color:#0D1117; border: 1px solid #A855F7; border-radius: 8px; padding: 16px;">
+      <b>MoveU</b><br/>
+      <sub>Startup Project</sub><br/><br/>
+      Mobility & transport app for university students<br/><br/>
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Mobile-0D1117?style=flat-square&logo=android&logoColor=A855F7"/>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Private%20Repo-A855F7?style=flat-square&logo=lock&logoColor=white"/>
+    </td>
+    <td align="center" width="280" style="background-color:#0D1117; border: 1px solid #A855F7; border-radius: 8px; padding: 16px;">
+      <b>ResidenciasNova</b><br/>
+      <sub>Smart Hotel Check-in</sub><br/><br/>
+      Hotel login system with biometric fingerprint registration<br/><br/>
+      <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Biometrics-0D1117?style=flat-square&logo=fingerprint&logoColor=A855F7"/>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Private%20Repo-A855F7?style=flat-square&logo=lock&logoColor=white"/>
+    </td>
+    <td align="center" width="280" style="background-color:#0D1117; border: 1px solid #A855F7; border-radius: 8px; padding: 16px;">
+      <b>DB Visuals</b><br/>
+      <sub>Live Coded Visuals</sub><br/><br/>
+      Audiovisual sets live-coded in JavaScript with Hydra.js<br/><br/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+      <img src="https://img.shields.io/badge/Hydra.js-8B5CF6?style=flat-square&logo=javascript&logoColor=white"/>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Private%20Repo-A855F7?style=flat-square&logo=lock&logoColor=white"/>
+    </td>
+  </tr>
+</table>
 
 </div>
 
