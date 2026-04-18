@@ -57,7 +57,7 @@ const domingo = {
   <a href="https://supabase.com"><img src="https://skillicons.dev/icons?i=supabase&theme=dark" height="45" /></a>
   <a href="https://www.postgresql.org"><img src="https://skillicons.dev/icons?i=postgresql&theme=dark" height="45" /></a>
   <a href="https://firebase.google.com"><img src="https://skillicons.dev/icons?i=firebase&theme=dark" height="45" /></a>
-  <a href="https://www.python.org"><img src="https://skillicons.dev/icons?i=python&theme=dark" height="45" /></a>
+  <a href="https://www.java.com"><img src="https://skillicons.dev/icons?i=java&theme=dark" height="45" /></a>
   <a href="https://www.mysql.com"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" height="45" /></a>
 </p>
 
@@ -65,8 +65,8 @@ const domingo = {
 <p align="center">
   <a href="https://www.ros.org"><img src="https://skillicons.dev/icons?i=ros&theme=dark" height="45" /></a>
   <a href="https://www.tensorflow.org"><img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" height="45" /></a>
+  <a href="https://www.python.org"><img src="https://skillicons.dev/icons?i=python&theme=dark" height="45" /></a>
   <a href="https://isocpp.org"><img src="https://skillicons.dev/icons?i=cpp&theme=dark" height="45" /></a>
-  <a href="https://www.java.com"><img src="https://skillicons.dev/icons?i=java&theme=dark" height="45" /></a>
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="https://skillicons.dev/icons?i=cs&theme=dark" height="45" /></a>
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://skillicons.dev/icons?i=c&theme=dark" height="45" /></a>
 </p>
@@ -75,7 +75,6 @@ const domingo = {
 <p align="center">
   <a href="https://git-scm.com"><img src="https://skillicons.dev/icons?i=git&theme=dark" height="45" /></a>
   <a href="https://github.com"><img src="https://skillicons.dev/icons?i=github&theme=dark" height="45" /></a>
-  <a href="https://code.visualstudio.com"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" height="45" /></a>
   <a href="https://www.linux.org"><img src="https://skillicons.dev/icons?i=linux&theme=dark" height="45" /></a>
   <a href="https://www.docker.com"><img src="https://skillicons.dev/icons?i=docker&theme=dark" height="45" /></a>
 </p>
