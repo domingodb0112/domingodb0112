@@ -37,10 +37,12 @@ const domingo = {
 
 ---
 
+<div align="center">
+
 ## Tech Stack
 
-### Frontend
-<p align="center">
+<h3>Frontend</h3>
+<p>
   <a href="https://react.dev"><img src="https://skillicons.dev/icons?i=react&theme=dark" height="45" /></a>
   <a href="https://nextjs.org"><img src="https://skillicons.dev/icons?i=nextjs&theme=dark" height="45" /></a>
   <a href="https://www.typescriptlang.org"><img src="https://skillicons.dev/icons?i=ts&theme=dark" height="45" /></a>
@@ -49,10 +51,11 @@ const domingo = {
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html&theme=dark" height="45" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css&theme=dark" height="45" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js&theme=dark" height="45" /></a>
+  <a href="https://vuejs.org"><img src="https://skillicons.dev/icons?i=vue&theme=dark" height="45" /></a>
 </p>
 
-### Backend & Database
-<p align="center">
+<h3>Backend & Database</h3>
+<p>
   <a href="https://nodejs.org"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" height="45" /></a>
   <a href="https://supabase.com"><img src="https://skillicons.dev/icons?i=supabase&theme=dark" height="45" /></a>
   <a href="https://www.postgresql.org"><img src="https://skillicons.dev/icons?i=postgresql&theme=dark" height="45" /></a>
@@ -60,11 +63,11 @@ const domingo = {
   <a href="https://www.java.com"><img src="https://skillicons.dev/icons?i=java&theme=dark" height="45" /></a>
   <a href="https://www.mysql.com"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" height="45" /></a>
   <a href="https://mariadb.org"><img src="https://skillicons.dev/icons?i=mariadb&theme=dark" height="45" /></a>
-  <a href="https://www.oracle.com/database/"><img src="https://skillicons.dev/icons?i=oracle&theme=dark" height="45" /></a>
+  <a href="https://www.oracle.com/database/"><img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" height="45" /></a>
 </p>
 
-### Robotics, AI & Systems
-<p align="center">
+<h3>Robotics, AI & Systems</h3>
+<p>
   <a href="https://www.ros.org"><img src="https://skillicons.dev/icons?i=ros&theme=dark" height="45" /></a>
   <a href="https://www.tensorflow.org"><img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" height="45" /></a>
   <a href="https://www.python.org"><img src="https://skillicons.dev/icons?i=python&theme=dark" height="45" /></a>
@@ -74,8 +77,8 @@ const domingo = {
   <a href="https://www.arduino.cc"><img src="https://skillicons.dev/icons?i=arduino&theme=dark" height="45" /></a>
 </p>
 
-### Tools
-<p align="center">
+<h3>Tools</h3>
+<p>
   <a href="https://git-scm.com"><img src="https://skillicons.dev/icons?i=git&theme=dark" height="45" /></a>
   <a href="https://github.com"><img src="https://skillicons.dev/icons?i=github&theme=dark" height="45" /></a>
   <a href="https://www.linux.org"><img src="https://skillicons.dev/icons?i=linux&theme=dark" height="45" /></a>
@@ -84,12 +87,14 @@ const domingo = {
   <a href="https://aws.amazon.com"><img src="https://skillicons.dev/icons?i=aws&theme=dark" height="45" /></a>
 </p>
 
-### Creative Tech
-<p align="center">
+<h3>Creative Tech</h3>
+<p>
   <a href="https://hydra.ojack.xyz/">
     <img src="https://img.shields.io/badge/Hydra.js-Live%20Visuals-8B5CF6?style=for-the-badge&logo=javascript&logoColor=white" />
   </a>
 </p>
+
+</div>
 
 ---
 
