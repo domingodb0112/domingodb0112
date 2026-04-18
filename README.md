@@ -157,8 +157,6 @@ const domingo = {
 
 <div align="center">
 
-> *"I don't just write code — I perform it."*
-
 I'm also a DJ who **live-codes visual sets** using **Hydra.js**, blending tech and art on stage.  
 Electronic music · Audiovisual performance · Creative coding.
 
