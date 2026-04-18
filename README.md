@@ -69,6 +69,7 @@ const domingo = {
   <a href="https://isocpp.org"><img src="https://skillicons.dev/icons?i=cpp&theme=dark" height="45" /></a>
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="https://skillicons.dev/icons?i=cs&theme=dark" height="45" /></a>
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://skillicons.dev/icons?i=c&theme=dark" height="45" /></a>
+  <a href="https://www.arduino.cc"><img src="https://skillicons.dev/icons?i=arduino&theme=dark" height="45" /></a>
 </p>
 
 ### Tools
@@ -83,9 +84,6 @@ const domingo = {
 <p align="center">
   <a href="https://hydra.ojack.xyz/">
     <img src="https://img.shields.io/badge/Hydra.js-Live%20Visuals-8B5CF6?style=for-the-badge&logo=javascript&logoColor=white" />
-  </a>
-  <a href="https://threejs.org">
-    <img src="https://img.shields.io/badge/Three.js-3D%20Web-black?style=for-the-badge&logo=three.js&logoColor=white" />
   </a>
 </p>
 
