@@ -59,6 +59,8 @@ const domingo = {
   <a href="https://firebase.google.com"><img src="https://skillicons.dev/icons?i=firebase&theme=dark" height="45" /></a>
   <a href="https://www.java.com"><img src="https://skillicons.dev/icons?i=java&theme=dark" height="45" /></a>
   <a href="https://www.mysql.com"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" height="45" /></a>
+  <a href="https://mariadb.org"><img src="https://skillicons.dev/icons?i=mariadb&theme=dark" height="45" /></a>
+  <a href="https://www.oracle.com/database/"><img src="https://skillicons.dev/icons?i=oracle&theme=dark" height="45" /></a>
 </p>
 
 ### Robotics, AI & Systems
@@ -78,6 +80,8 @@ const domingo = {
   <a href="https://github.com"><img src="https://skillicons.dev/icons?i=github&theme=dark" height="45" /></a>
   <a href="https://www.linux.org"><img src="https://skillicons.dev/icons?i=linux&theme=dark" height="45" /></a>
   <a href="https://www.docker.com"><img src="https://skillicons.dev/icons?i=docker&theme=dark" height="45" /></a>
+  <a href="https://www.cloudflare.com"><img src="https://skillicons.dev/icons?i=cloudflare&theme=dark" height="45" /></a>
+  <a href="https://aws.amazon.com"><img src="https://skillicons.dev/icons?i=aws&theme=dark" height="45" /></a>
 </p>
 
 ### Creative Tech
